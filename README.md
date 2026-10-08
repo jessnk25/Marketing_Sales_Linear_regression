@@ -1,2 +1,4 @@
-# Marketing_Sales_Linear_regression
-In this project, we will provide insights about a company's sales and marketing practices. This project focuses on the use of influencer marketing. For this task, we will explore the relationship between the TV promotion budget and sales.
+# Marketing Sales Linear Regression Model
+This project explores the relationship between marketing spend and sales using a simple linear regression model. The analysis investigates whether TV advertising expenditure can be used to predict sales and evaluates the performance of the regression model.
+
+Tools used: Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
